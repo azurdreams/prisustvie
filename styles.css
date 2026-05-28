@@ -215,9 +215,8 @@ nav {
     color: var(--dark-gray);
 }
 
-.stars {
-    color: #f1c40f;
-    margin-bottom: 1rem;
+    .stars {
+    color: #b8860b;
 }
 
 /* Purchase Section */
